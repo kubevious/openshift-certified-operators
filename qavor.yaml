@@ -1,0 +1,3 @@
+kind: service
+name: openshift-certified-operators
+description: openshift-certified-operators
